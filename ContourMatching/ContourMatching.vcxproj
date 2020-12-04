@@ -149,7 +149,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ShapeMatch.cpp" />
-    <ClCompile Include="源.cpp" />
+    <ClCompile Include="ContourMatching.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ShapeMatch.h" />
